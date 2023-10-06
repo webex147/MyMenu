@@ -1,0 +1,2 @@
+# MyMenu
+Learn Rails App
